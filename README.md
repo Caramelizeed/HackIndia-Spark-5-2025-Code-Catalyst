@@ -147,13 +147,19 @@ npm run dev
 └─────────────────┘     └───────────────┘     └─────────────────┘
 ```
 
-## 📸 Screenshots
+## 📸 Platform Screenshots
 
-*Coming Soon: Interactive screenshots showing the startup submission flow, crowdfunding dashboard, and team building interface.*
+### Campaign Creation
+![Campaign Creation Form](https://via.placeholder.com/800x450?text=Campaign+Creation+Form)
+*Screenshot of the campaign creation interface where founders can specify their project details, goals, and timeline.*
 
-![Project Dashboard](https://via.placeholder.com/800x450?text=Project+Dashboard+Coming+Soon)
-![Funding Interface](https://via.placeholder.com/800x450?text=Funding+Interface+Coming+Soon)
-![Team Building](https://via.placeholder.com/800x450?text=Team+Building+Coming+Soon)
+### Campaign Details & Funding
+![Campaign Details](https://via.placeholder.com/800x450?text=Campaign+Details+and+Funding)
+*The campaign details page showing project information, funding progress, and available backing tiers.*
+
+### Tier Management
+![Tier Management](https://via.placeholder.com/800x450?text=Tier+Management)
+*Interface for campaign creators to manage funding tiers, add new tiers, and monitor backer statistics.*
 
 ## 🛣️ Roadmap
 
@@ -171,17 +177,13 @@ We are nam – passionate builders, developers, and dreamers committed to levera
 Our mission is to democratize access to capital and talent for visionary founders worldwide. We believe that great ideas should never fail due to lack of funding or inability to find the right team members.
 
 ### Core Team
-- **Alex Chen** - Smart Contract Developer
-- **Maya Rodriguez** - Frontend Engineer
-- **Satoshi Kenzo** - Blockchain Architect
-- **Priya Sharma** - UX/UI Designer
+- **Vanshdeep Sharma** - Smart Contract Developer
+- **Akshat,Asami** - Frontend Engineer
+- **Vanshdeep Sharma** - Blockchain Architect
+- **Bhavya** - UX/UI Designer
 
 ### Connect with us
-- ✉️ Email: teamnam@email.com
-- 🐙 GitHub: [@nam-team](https://github.com/nam-team)
-- 💬 Discord: [Join our Community](https://discord.gg/nam-community)
-- 🐦 Twitter: [@fund_it_up](https://twitter.com/fund_it_up)
-
+- ✉️ Email: caramelizeeed@gmail.com
 ## 🤝 Contributing
 
 We welcome contributions from the community! Please check our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
