@@ -147,19 +147,6 @@ npm run dev
 └─────────────────┘     └───────────────┘     └─────────────────┘
 ```
 
-## 📸 Platform Screenshots
-
-### Campaign Creation
-![Campaign Creation Form](https://via.placeholder.com/800x450?text=Campaign+Creation+Form)
-*Screenshot of the campaign creation interface where founders can specify their project details, goals, and timeline.*
-
-### Campaign Details & Funding
-![Campaign Details](https://via.placeholder.com/800x450?text=Campaign+Details+and+Funding)
-*The campaign details page showing project information, funding progress, and available backing tiers.*
-
-### Tier Management
-![Tier Management](https://via.placeholder.com/800x450?text=Tier+Management)
-*Interface for campaign creators to manage funding tiers, add new tiers, and monitor backer statistics.*
 
 ## 🛣️ Roadmap
 
